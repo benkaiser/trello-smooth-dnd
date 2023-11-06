@@ -1,4 +1,3 @@
-import './polyfills';
 import * as Utils from './utils';
 import * as constants from './constants';
 import { addStyleToHead, addCursorStyleToBody, removeStyle } from './styles';
